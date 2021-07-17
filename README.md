@@ -1,2 +1,4 @@
-# Emlog-vCards
-一款简约的个人博客模板
+# Emlog-theme-vCards
+一款简约的个人博客模板-emlog
+
+## 计划中
